@@ -1,11 +1,11 @@
 {
-    "name": "nwidart/blog",
+    "name": "pictus/blog-module",
     "description": "",
     "type": "laravel-module",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Ilya Epifanov",
+            "email": "ilya.digit@gmail.com"
         }
     ],
     "extra": {
